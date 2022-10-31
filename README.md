@@ -1,6 +1,7 @@
-# i-lem-tablosu
+
 ödev olarak verilen toplama çıkarma çarpma bölme işlemlerini sayılarla seçerek gösterimini sağladım
-double sayı1, sayı2;
+
+            double sayı1, sayı2;
             Console.Write("birinci sayı: ");
             sayı1 =  Convert.ToInt32(Console.ReadLine());
             Console.Write("ikinci sayı: ");
